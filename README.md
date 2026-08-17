@@ -277,12 +277,20 @@ Strengthening problem-solving skills through consistent practice in Data Structu
 
 ---
 
-## 📈 GitHub Analytics & Contribution Animation
+## 🐍 Contribution Grid & Snake Animation
 
 <p align="center">
   <!-- GitHub Contribution Snake Game Animation -->
-  <img src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <!-- Dynamic GitHub Activity Graph -->
