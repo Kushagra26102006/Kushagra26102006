@@ -277,7 +277,17 @@ Strengthening problem-solving skills through consistent practice in Data Structu
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Contribution Animation
+
+<p align="center">
+  <!-- GitHub Contribution Snake Game Animation -->
+  <img src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Dynamic GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra26102006&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph Animation" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kushagra26102006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
