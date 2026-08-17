@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,25:4facfe,50:6b11ff,75:b000ff,100:ff007f&height=220&section=header&text=Kushagra%20Yadav&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
+# Hi, I'm Kushagra Yadav 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Building+Modern+Software;Solving+DSA+Problems+in+C%2B%2B;Exploring+Web+Development;Preparing+for+Software+Engineering+Roles" alt="Typing Animation" />
-</p>
+### `B.Tech CSE @ LPU` • `C++ & DSA` • `Full-Stack Development`
 
-<p align="center">
-  <i>Building software, solving problems, and continuously learning through real-world projects.</i>
-</p>
+Building practical software projects while strengthening C++ and Data Structures & Algorithms.
 
 <p align="center">
   <a href="https://github.com/Kushagra26102006" title="Visit Kushagra's GitHub Profile">
@@ -17,10 +13,11 @@
   <a href="https://leetcode.com/u/Kushagra892/" title="Visit Kushagra's LeetCode Profile">
     <img src="https://img.shields.io/badge/LeetCode-Kushagra892-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <!-- Replace YOUR_LINKEDIN_PROFILE_URL with your actual personal LinkedIn profile URL -->
   <a href="YOUR_LINKEDIN_PROFILE_URL" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kushagra.yadav2024@lpu.in" title="Send an Email to Kushagra">
+  <a href="mailto:kushagra.yadav2024@lpu.in" title="Send Email">
     <img src="https://img.shields.io/badge/Email-kushagra.yadav2024%40lpu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -29,28 +26,38 @@
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ Quick Profile
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Education-B.Tech%20CSE-0052CC?style=for-the-badge&logo=academicons&logoColor=white" title="2nd Year B.Tech CSE at LPU" /><br/>
-      <sub>2nd Year @ LPU</sub>
+    <td align="center" width="16%">
+      <b>🎓 Education</b><br/>
+      <sub>B.Tech CSE (4th Sem)</sub><br/>
+      <sub>LPU, India</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%26%20DSA-00B894?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Data Structures & Algorithms in C++" /><br/>
-      <sub>Algorithms</sub>
+    <td align="center" width="16%">
+      <b>💻 Primary Lang</b><br/>
+      <sub>C++</sub><br/>
+      <sub>JavaScript</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Stack-HTML%20%2F%20CSS%20%2F%20JS-00CEC9?style=for-the-badge&logo=javascript&logoColor=black" title="Web Development Stack" /><br/>
-      <sub>Web Dev</sub>
+    <td align="center" width="16%">
+      <b>🧠 Problem Solving</b><br/>
+      <sub>DSA in C++</sub><br/>
+      <sub>LeetCode</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Goal-Software%20Eng-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white" title="Preparing for SDE Roles" /><br/>
-      <sub>Intern/Placement</sub>
+    <td align="center" width="16%">
+      <b>🌐 Development</b><br/>
+      <sub>Frontend & React</sub><br/>
+      <sub>Node.js & Express</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Location-Punjab%2C%20India-FF7675?style=for-the-badge&logo=googlemaps&logoColor=white" title="Based in LPU Campus, Punjab, India" /><br/>
+    <td align="center" width="16%">
+      <b>🎯 Career Focus</b><br/>
+      <sub>Software Engineering</sub><br/>
+      <sub>SDE Internships</sub>
+    </td>
+    <td align="center" width="16%">
+      <b>📍 Location</b><br/>
+      <sub>Punjab, India</sub><br/>
       <sub>LPU Campus</sub>
     </td>
   </tr>
@@ -60,93 +67,64 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Academic Background:** 2nd Year Computer Science & Engineering student at **Lovely Professional University (LPU)**, Punjab, India.
-- 💻 **Algorithm Specialty:** Focused on strengthening core problem-solving techniques in **C++** and mastering **Data Structures & Algorithms**.
-- 🌐 **Web Development:** Developing modern, interactive frontend interfaces using **HTML5, CSS3, and JavaScript (ES6+)**.
-- 🛠️ **Engineering Principles:** Emphasizing clean software design, modular code structure, and practical API integration.
-- 🎯 **Career Goal:** Actively preparing for upcoming **Software Engineering Internships and Placement drives**.
+- 🎓 **Academic Status:** Computer Science & Engineering student currently in **4th Semester** at **Lovely Professional University (LPU)**, Punjab, India.
+- 💻 **Core Focus:** Building strong computer science fundamentals, specializing in **C++** and practicing **Data Structures & Algorithms**.
+- 🌐 **Web Engineering:** Designing modern, responsive interfaces and expanding into modern full-stack web development with **React, Node.js, Express, and MongoDB**.
+- 🛠️ **Practical Experience:** Developed multiple real-world software applications, console tools, accessible websites, and REST API integrations.
+- 🎯 **Career Direction:** Actively preparing for **Software Engineering Internships and Full-Stack Development** placement opportunities.
 
 ---
 
-## 🧠 Currently Building & Practicing
+## 🧠 Currently Working On
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/DSA-C%2B%2B%20Problem%20Solving-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></h3>
-      <p>Practicing core problem solving in C++, analyzing space-time complexity, and mastering algorithms on LeetCode.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Arrays-0052CC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vectors-00B894?style=flat-square" />
-        <img src="https://img.shields.io/badge/Strings-00CEC9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pointers-6C5CE7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Recursion-FF7675?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/Web%20Dev-Frontend%20UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></h3>
-      <p>Building responsive, accessible, and clean web applications using vanilla HTML5, CSS3, and JavaScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/DOM_Manipulation-E34F26?style=flat-square" />
-        <img src="https://img.shields.io/badge/ES6+_JS-F7DF1E?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_APIs-0055E6?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/Projects-Real--World%20Apps-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white" /></h3>
-      <p>Applying software engineering principles to create practical tools, console applications, and web apps.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Clean_Architecture-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Modular_Code-00CEC9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Version_Control-F05032?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/CS-Engineering%20Fundamentals-00B894?style=for-the-badge&logo=git&logoColor=white" /></h3>
-      <p>Studying fundamental computer science subjects including Object-Oriented Programming (OOP) and Git workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OOP_Principles-008080?style=flat-square" />
-        <img src="https://img.shields.io/badge/Git_Workflow-F05032?style=flat-square" />
-        <img src="https://img.shields.io/badge/Software_Design-0052CC?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+```text
+🧠 Data Structures & Algorithms       ██████████████░░░   Practicing
+🌐 Modern Web Development              █████████████░░░░   Building
+⚛️  React.js Fundamentals               ██████████░░░░░░░   Learning
+⚙️  Backend Development & Node.js       ████████░░░░░░░░░   Exploring
+🗄️  Databases & MongoDB                 ███████░░░░░░░░░░   Learning
+```
 
 ---
 
-## 🛠️ Tech Stack & Interactive Skill Badges
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" alt="Tech Stack Icons" title="Hover over skills to explore" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
-      <b>💻 Programming Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ Programming Language" /><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript ES6+" />
+    <td width="33%" valign="top">
+      <b>💻 Languages</b><br/>
+      • C++ (Primary)<br/>
+      • JavaScript (ES6+)
     </td>
-    <td width="25%" valign="top">
-      <b>🌐 Web Technologies</b><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5 Markup Language" /><br/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3 Cascading Style Sheets" /><br/><br/>
-      <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" title="RESTful Web APIs" />
+    <td width="33%" valign="top">
+      <b>🌐 Frontend</b><br/>
+      • HTML5<br/>
+      • CSS3<br/>
+      • JavaScript<br/>
+      • React
     </td>
-    <td width="25%" valign="top">
-      <b>🧰 Developer Tools</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git Version Control" /><br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub Hosting" /><br/><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" />
+    <td width="33%" valign="top">
+      <b>⚙️ Backend & Database</b><br/>
+      • Node.js<br/>
+      • Express.js<br/>
+      • REST APIs<br/>
+      • MongoDB
     </td>
-    <td width="25%" valign="top">
-      <b>🧠 Core Fundamentals</b><br/><br/>
-      <img src="https://img.shields.io/badge/Data_Structures-4682B4?style=for-the-badge&logo=codeforces&logoColor=white" title="Data Structures" /><br/><br/>
-      <img src="https://img.shields.io/badge/Algorithms-6C5CE7?style=for-the-badge&logo=leetcode&logoColor=white" title="Algorithms" /><br/><br/>
-      <img src="https://img.shields.io/badge/OOP_Design-008080?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Object-Oriented Programming" />
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧰 Tools & Platforms</b><br/>
+      • Git & GitHub<br/>
+      • VS Code
+    </td>
+    <td width="50%" valign="top">
+      <b>🧠 Core Computer Science</b><br/>
+      • Data Structures & Algorithms<br/>
+      • Object-Oriented Programming (OOP)
     </td>
   </tr>
 </table>
@@ -159,72 +137,76 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 SkyBolt Rentals</h3>
-      <p>A vehicle rental web application engineered for browsing motor vehicle rental services with a modern responsive UI.</p>
+      <p>A vehicle rental web application designed with a responsive interface for browsing motor vehicle rental services.</p>
+      <b>Key Features:</b>
       <ul>
-        <li>Interactive vehicle catalog showcase</li>
-        <li>Clean user experience & responsive layout</li>
-        <li>Structured CSS grid/flexbox components</li>
+        <li>Vehicle rental service catalog browsing</li>
+        <li>Clean user experience and navigation</li>
+        <li>Responsive CSS layout design</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/Kushagra26102006/SkyBolt-Rentals" title="Open SkyBolt Rentals Repository">
-        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      <p><b>Tech Stack:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/Kushagra26102006/SkyBolt-Rentals">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🌤️ Weather API Application</h3>
-      <p>Real-time weather application fetching dynamic weather metrics directly from OpenWeatherMap REST API.</p>
+      <p>Weather application utilizing the OpenWeatherMap API to display real-time weather information and atmospheric metrics.</p>
+      <b>Key Features:</b>
       <ul>
-        <li>Live temperature, humidity, and wind speed telemetry</li>
-        <li>Dynamic weather condition indicators</li>
-        <li>Asynchronous JavaScript fetch routines</li>
+        <li>Real-time temperature, humidity, & wind speed</li>
+        <li>Dynamic weather condition indicators & icons</li>
+        <li>Asynchronous JavaScript fetch API requests</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenWeather-E65100?style=for-the-badge&logo=openweathermap&logoColor=white" />
-      </p>
-      <a href="https://github.com/Kushagra26102006/Weather-API" title="Open Weather API Repository">
-        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      <p><b>Tech Stack:</b> <code>JavaScript</code> <code>REST API</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/Kushagra26102006/Weather-API">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 SmartLibrary Management System</h3>
-      <p>A C++ library management application built to implement structured record handling and inventory control.</p>
+      <h3>📚 SmartLibrary System</h3>
+      <p>A C++ library management application focused on structured record handling and administrative inventory operations.</p>
+      <b>Key Features:</b>
       <ul>
-        <li>Book inventory tracking & record operations</li>
-        <li>Object-oriented class implementation</li>
-        <li>Streamlined command-line interface</li>
+        <li>Book inventory record management</li>
+        <li>Object-oriented program architecture</li>
+        <li>Console-based operational interface</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-008080?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Data_Structures-4682B4?style=for-the-badge" />
-      </p>
-      <a href="https://github.com/Kushagra26102006/SmartLibrary" title="Open SmartLibrary Repository">
-        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      <p><b>Tech Stack:</b> <code>C++</code> <code>Data Structures</code> <code>OOP</code></p>
+      <a href="https://github.com/Kushagra26102006/SmartLibrary">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio Website</h3>
-      <p>Personal accessible developer website built to highlight projects, explore UI aesthetics, and test performance.</p>
+      <h3>🌐 Personal Portfolio</h3>
+      <p>Personal developer website created to showcase technical projects and experiment with responsive web design.</p>
+      <b>Key Features:</b>
       <ul>
-        <li>Semantic HTML markup structure</li>
-        <li>Responsive CSS styling across viewports</li>
-        <li>Interactive UI elements</li>
+        <li>Semantic page markup and structure</li>
+        <li>Custom responsive CSS styling</li>
+        <li>Project showcase interface</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/Kushagra26102006/Kushagra26102006.github.io" title="Open Personal Portfolio Repository">
-        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      <p><b>Tech Stack:</b> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/Kushagra26102006/Kushagra26102006.github.io">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>♿ CSS Accessible Website</h3>
+      <p>A multi-page accessible website demonstrating core HTML/CSS layout techniques, Flexbox, Grid, and web accessibility standards.</p>
+      <b>Key Features:</b>
+      <ul>
+        <li>Multi-page web architecture</li>
+        <li>Modern Flexbox and CSS Grid layout techniques</li>
+        <li>Accessibility and semantic standards compliance</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>HTML</code> <code>CSS</code> <code>Web Accessibility</code></p>
+      <a href="https://github.com/Kushagra26102006/css-accessible-website">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
   </tr>
@@ -232,78 +214,44 @@
 
 ---
 
-## 🧩 Algorithmic Problem Solving
+## 🧩 DSA & Problem Solving
 
 Strengthening problem-solving skills through consistent practice in Data Structures & Algorithms.
 
 - ⚡ **Primary Language:** C++
-- 📊 **Practiced Topics:** Arrays, Strings, Vectors, Two Pointers, Searching & Sorting, Recursion, Object-Oriented Design
-- 💡 **Practice Focus:** Optimal time & space complexity, algorithm efficiency
-
-<br/>
+- 📊 **Topics Practiced:** Arrays • Strings • Searching • Sorting • Two Pointers • Recursion • Vectors • Linked Lists • Trees • Dynamic Programming • Graphs • Object-Oriented Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/Kushagra892/" title="View Kushagra's LeetCode Profile & Activity">
-    <img src="https://leetcard.jacoblin.cool/Kushagra892?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Diagram Card" />
+  <a href="https://leetcode.com/u/Kushagra892/" title="View LeetCode Profile">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile" />
   </a>
 </p>
 
----
-
-## 📜 Certifications & Achievements
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📜 Data Structures & Algorithms in C++</h3>
-      <p><b>Issuing Organization:</b> Coursera / HackerRank / NPTEL</p>
-      <p>Demonstrated proficiency in C++ programming, data structures implementation, and algorithmic complexity analysis.</p>
-      <!-- Replace YOUR_CERTIFICATE_URL with your actual credential link -->
-      <a href="YOUR_CERTIFICATE_URL" title="Verify DSA Credential">
-        <img src="https://img.shields.io/badge/Verify_Credential-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Verify Credential" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 Web Development Fundamentals</h3>
-      <p><b>Issuing Organization:</b> Udemy / FreeCodeCamp / Coursera</p>
-      <p>Completed practical coursework covering HTML5, CSS3, JavaScript ES6+, and responsive web design principles.</p>
-      <!-- Replace YOUR_CERTIFICATE_URL with your actual credential link -->
-      <a href="YOUR_CERTIFICATE_URL" title="Verify Web Dev Credential">
-        <img src="https://img.shields.io/badge/Verify_Credential-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Verify Credential" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Contribution Grid & Snake Animation
-
-<p align="center">
-  <!-- GitHub Contribution Snake Game Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
+### 🛣️ Problem-Solving Roadmap
+```text
+Arrays ──> Strings ──> Linked Lists ──> Trees ──> Graphs ──> Dynamic Programming
+```
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <!-- Dynamic GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra26102006&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph Animation" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra26102006&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra26102006&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra26102006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra26102006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra26102006&theme=dark&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra26102006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <!-- Note: This snake animation SVG is generated automatically via GitHub Actions workflow (snk) -->
+  <img src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </p>
 
 ---
@@ -313,53 +261,52 @@ Strengthening problem-solving skills through consistent practice in Data Structu
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/CURRENT-FOCUS-FF7675?style=for-the-badge" /><br/><br/>
+      <b>🔥 CURRENT</b><br/><br/>
       <code>C++</code> • <code>DSA</code><br/>
-      <code>JavaScript (ES6+)</code><br/>
-      <code>HTML5 & CSS3</code>
+      <code>JavaScript</code> • <code>React</code>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/LEARNING-NEXT-00CEC9?style=for-the-badge" /><br/><br/>
-      <code>React.js</code> • <code>Node.js</code><br/>
-      <code>Express.js</code> • <code>SQL / MongoDB</code><br/>
-      <code>RESTful API Design</code>
+      <b>🚀 NEXT</b><br/><br/>
+      <code>Node.js</code> • <code>Express.js</code><br/>
+      <code>MongoDB</code> • <code>REST APIs</code>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/FUTURE-HORIZONS-A855F7?style=for-the-badge" /><br/><br/>
-      <code>Open Source Development</code><br/>
-      <code>System Design & Architecture</code><br/>
-      <code>Software Engineering Best Practices</code>
+      <b>🎯 FUTURE</b><br/><br/>
+      <code>System Design</code><br/>
+      <code>Open Source</code><br/>
+      <code>Production Projects</code><br/>
+      <code>Interview Prep</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 2026 Objectives & Milestones
+## 🎯 2026 Goals
 
-- [ ] Master advanced DSA concepts & solve 200+ problem challenges in C++
-- [ ] Build production-grade full-stack web applications with modern frameworks
-- [ ] Contribute meaningfully to Open Source repositories on GitHub
-- [ ] Participate actively in competitive programming contests & hackathons
-- [ ] Maintain a clean, active developer portfolio on GitHub
-- [ ] Secure a Software Engineering Internship / Development Placement
+- [ ] Strengthen DSA fundamentals and algorithmic problem solving in C++
+- [ ] Build production-grade full-stack applications with React & Node.js
+- [ ] Continuously improve GitHub repository portfolio and code quality
+- [ ] Participate actively in hackathons and coding challenges
+- [ ] Contribute to open-source developer projects
+- [ ] Prepare thoroughly for Software Engineering Internships
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Kushagra26102006" title="Kushagra's GitHub Profile">
+  <a href="https://github.com/Kushagra26102006" title="GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/Kushagra892/" title="Kushagra's LeetCode Profile">
+  <a href="https://leetcode.com/u/Kushagra892/" title="LeetCode Profile">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:kushagra.yadav2024@lpu.in" title="Email Kushagra Yadav">
+  <a href="mailto:kushagra.yadav2024@lpu.in" title="Email Kushagra">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Replace with your actual LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_PROFILE_URL" title="Kushagra's LinkedIn Profile">
+  <!-- Replace YOUR_LINKEDIN_PROFILE_URL with your actual LinkedIn profile URL -->
+  <a href="YOUR_LINKEDIN_PROFILE_URL" title="LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -368,12 +315,12 @@ Strengthening problem-solving skills through consistent practice in Data Structu
 
 <div align="center">
 
-Building today. Learning every day. 🚀
+`Building → Learning → Solving → Shipping 🚀`
 
 ⭐ *If you find my projects interesting, consider giving them a star.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kushagra26102006&style=flat-square&color=0072ff" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Kushagra26102006&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
