@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 # Hi, I'm Kushagra Yadav 👋
 
@@ -174,6 +174,33 @@ Strengthening problem-solving skills through consistent practice in Data Structu
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
+
+---
+
+## 📜 Certifications & Achievements
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 Data Structures & Algorithms in C++</h3>
+      <p><b>Issuing Organization:</b> Coursera / HackerRank / NPTEL</p>
+      <p>Demonstrated proficiency in C++ programming, data structures implementation, and algorithmic complexity analysis.</p>
+      <!-- Replace YOUR_CERTIFICATE_URL with your actual credential link -->
+      <a href="YOUR_CERTIFICATE_URL">
+        <img src="https://img.shields.io/badge/Verify_Credential-0A66C2?style=for-the-badge&logo=badge&logoColor=white" alt="Verify Credential" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 Web Development Fundamentals</h3>
+      <p><b>Issuing Organization:</b> Udemy / FreeCodeCamp / Coursera</p>
+      <p>Completed practical coursework covering HTML5, CSS3, JavaScript ES6+, and responsive web design principles.</p>
+      <!-- Replace YOUR_CERTIFICATE_URL with your actual credential link -->
+      <a href="YOUR_CERTIFICATE_URL">
+        <img src="https://img.shields.io/badge/Verify_Credential-0A66C2?style=for-the-badge&logo=badge&logoColor=white" alt="Verify Credential" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
