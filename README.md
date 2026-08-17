@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,25:0072ff,50:7852ff,75:a855f7,100:ec4899&height=210&section=header&text=Kushagra%20Yadav&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,25:4facfe,50:6b11ff,75:b000ff,100:ff007f&height=220&section=header&text=Kushagra%20Yadav&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Building+Modern+Software;Solving+DSA+Problems+in+C%2B%2B;Exploring+Web+Development;Preparing+for+Software+Engineering+Roles" alt="Typing Animation" />
@@ -73,33 +73,51 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/DSA-C%2B%2B%20Problem%20Solving-00599C?style=flat-square&logo=c%2B%2B" /></h3>
+      <h3><img src="https://img.shields.io/badge/DSA-C%2B%2B%20Problem%20Solving-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></h3>
       <p>Practicing core problem solving in C++, analyzing space-time complexity, and mastering algorithms on LeetCode.</p>
-      <p><code>Arrays</code> • <code>Vectors</code> • <code>Strings</code> • <code>Pointers</code> • <code>Recursion</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Arrays-0052CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vectors-00B894?style=flat-square" />
+        <img src="https://img.shields.io/badge/Strings-00CEC9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pointers-6C5CE7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Recursion-FF7675?style=flat-square" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/Web%20Dev-Frontend%20UI-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></h3>
+      <h3><img src="https://img.shields.io/badge/Web%20Dev-Frontend%20UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></h3>
       <p>Building responsive, accessible, and clean web applications using vanilla HTML5, CSS3, and JavaScript.</p>
-      <p><code>DOM Manipulation</code> • <code>ES6+ JavaScript</code> • <code>REST API Consumption</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/DOM_Manipulation-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/ES6+_JS-F7DF1E?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_APIs-0055E6?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/Projects-Real--World%20Apps-6C5CE7?style=flat-square&logo=rocket" /></h3>
+      <h3><img src="https://img.shields.io/badge/Projects-Real--World%20Apps-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white" /></h3>
       <p>Applying software engineering principles to create practical tools, console applications, and web apps.</p>
-      <p><code>Clean Architecture</code> • <code>Modular Code</code> • <code>Version Control</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Clean_Architecture-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Modular_Code-00CEC9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Version_Control-F05032?style=flat-square" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.shields.io/badge/CS-Engineering%20Fundamentals-00B894?style=flat-square&logo=git" /></h3>
+      <h3><img src="https://img.shields.io/badge/CS-Engineering%20Fundamentals-00B894?style=for-the-badge&logo=git&logoColor=white" /></h3>
       <p>Studying fundamental computer science subjects including Object-Oriented Programming (OOP) and Git workflows.</p>
-      <p><code>OOP Principles</code> • <code>Git Workflow</code> • <code>Software Design</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/OOP_Principles-008080?style=flat-square" />
+        <img src="https://img.shields.io/badge/Git_Workflow-F05032?style=flat-square" />
+        <img src="https://img.shields.io/badge/Software_Design-0052CC?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Interactive Skill Badges
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" alt="Tech Stack Icons" title="Hover over skills to explore" />
@@ -108,28 +126,27 @@
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
-      <b>💻 Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ Programming" /><br/><br/>
+      <b>💻 Programming Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ Programming Language" /><br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript ES6+" />
     </td>
     <td width="25%" valign="top">
-      <b>🌐 Web Dev</b><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5 Markup" /><br/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3 Styling" /><br/><br/>
-      <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" title="RESTful API Integration" />
+      <b>🌐 Web Technologies</b><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5 Markup Language" /><br/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3 Cascading Style Sheets" /><br/><br/>
+      <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" title="RESTful Web APIs" />
     </td>
     <td width="25%" valign="top">
-      <b>🧰 Tools & Version Control</b><br/><br/>
+      <b>🧰 Developer Tools</b><br/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git Version Control" /><br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub Code Hosting" /><br/><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code IDE" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub Hosting" /><br/><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" />
     </td>
     <td width="25%" valign="top">
-      <b>🧠 Core Concepts</b><br/><br/>
-      <img src="https://img.shields.io/badge/Data_Structures-4682B4?style=flat-square" title="Data Structures" /><br/>
-      <img src="https://img.shields.io/badge/Algorithms-6C5CE7?style=flat-square" title="Algorithmic Complexity" /><br/>
-      <img src="https://img.shields.io/badge/OOP_Concepts-008080?style=flat-square" title="Object-Oriented Programming" /><br/>
-      <img src="https://img.shields.io/badge/Responsive_Design-00CEC9?style=flat-square" title="Responsive Layouts" />
+      <b>🧠 Core Fundamentals</b><br/><br/>
+      <img src="https://img.shields.io/badge/Data_Structures-4682B4?style=for-the-badge&logo=codeforces&logoColor=white" title="Data Structures" /><br/><br/>
+      <img src="https://img.shields.io/badge/Algorithms-6C5CE7?style=for-the-badge&logo=leetcode&logoColor=white" title="Algorithms" /><br/><br/>
+      <img src="https://img.shields.io/badge/OOP_Design-008080?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Object-Oriented Programming" />
     </td>
   </tr>
 </table>
@@ -149,12 +166,12 @@
         <li>Structured CSS grid/flexbox components</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </p>
       <a href="https://github.com/Kushagra26102006/SkyBolt-Rentals" title="Open SkyBolt Rentals Repository">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -166,12 +183,12 @@
         <li>Asynchronous JavaScript fetch routines</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-0055E6?style=flat-square&logo=json&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenWeatherMap-E65100?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenWeather-E65100?style=for-the-badge&logo=openweathermap&logoColor=white" />
       </p>
       <a href="https://github.com/Kushagra26102006/Weather-API" title="Open Weather API Repository">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
   </tr>
@@ -185,12 +202,12 @@
         <li>Streamlined command-line interface</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-008080?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data_Structures-4682B4?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-008080?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Data_Structures-4682B4?style=for-the-badge" />
       </p>
       <a href="https://github.com/Kushagra26102006/SmartLibrary" title="Open SmartLibrary Repository">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -202,12 +219,12 @@
         <li>Interactive UI elements</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </p>
       <a href="https://github.com/Kushagra26102006/Kushagra26102006.github.io" title="Open Personal Portfolio Repository">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        <img src="https://img.shields.io/badge/View_Repository-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
   </tr>
