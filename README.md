@@ -1,193 +1,456 @@
-<!-- Header Banner -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    HEADER SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Kushagra%20Yadav%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=KUSHAGRA%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Development%20Engineer%20-%20C%2B%2B%20%7C%20Python%20%7C%20JavaScript%20%7C%20GenAI&descAlignY=55&descAlign=50&descSize=17&stroke=ffffff&strokeWidth=2" width="100%" />
 </div>
 
-<!-- Typing Animation -->
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED TYPING SVG                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=700&height=70&lines=B.Tech+CSE+Student+🎓;Software+Developer+💻;Full+Stack+Developer+🚀;DSA+%7C+C%2B%2B+%7C+Node.js;Always+Learning+New+Things+📚" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=200&lines=Aspiring+Software+Development+Engineer;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+SQL;Data+Structures+%26+Algorithms+%7C+Problem+Solving;Web+Development+%7C+Generative+AI;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               PROFILE BADGES ROW                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <a href="https://github.com/Kushagra26102006">
+    <img src="https://komarev.com/ghpvc/?username=Kushagra26102006&label=👁️%20Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
   </a>
+
+  &nbsp;
+
+  <a href="https://github.com/Kushagra26102006?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kushagra26102006?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0d1117" alt="Followers" />
+  </a>
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/🎓_B.Tech-CSE-6C63FF?style=for-the-badge&labelColor=0d1117" alt="B.Tech CSE" />
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/📚_Semester-5-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Semester 5" />
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/💼_Open_to-Internships-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Open to Internships" />
+
 </div>
 
-<!-- Snake Animation -->
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-* 🎓 I'm a **B.Tech Computer Science & Engineering student** at **Lovely Professional University**
-* 💻 Passionate about **Software Development, DSA & Full Stack Development**
-* 🚀 Currently strengthening my skills in **C++, DSA, JavaScript & Node.js**
-* 🌱 Exploring **React, Express.js, MongoDB & Backend Development**
-* 🧠 Regularly practicing **Data Structures & Algorithms**
-* 🔨 Building practical projects to improve my development skills
-* 🎯 Preparing for **software development internships and placements**
-* 🤝 Open to collaborating on **interesting projects and open-source contributions**
-* 📫 Email: **[sy7666492@gmail.com](mailto:sy7666492@gmail.com)**
-
-<br clear="both">
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 Smart Rental Dashboard
-
-A smart rental management project focused on providing a convenient platform for managing rental-related information and operations.
-
-**Tech:** JavaScript • HTML • CSS • Node.js • MongoDB
-
----
-
-### 🚲 Sky Bolt Rental
-
-A modern rental platform designed to make vehicle/rental management simple and user-friendly.
-
-**Tech:** HTML • CSS • JavaScript • Node.js
-
----
-
-## 🧠 DSA & Competitive Programming
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL LINKS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)
+  <a href="https://www.linkedin.com/in/kushagra-yadav-27100832a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/Kushagra26102006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  &nbsp;
+
+  <a href="https://leetcode.com/u/Kushagra892/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  &nbsp;
+
+  <a href="mailto:sy7666492@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
-* 📌 Practicing **Data Structures & Algorithms**
-* 🔹 Arrays & Strings
-* 🔹 Linked Lists
-* 🔹 Stacks & Queues
-* 🔹 Trees & Binary Trees
-* 🔹 Graphs
-* 🔹 Hashing
-* 🔹 Recursion & Backtracking
-* 🔹 Dynamic Programming
-* 🔹 Searching & Sorting
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ABOUT ME SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; About Me
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra26102006&show_icons=true&count_private=true&hide_border=true&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9&bg_color=0d1117" />
+```yaml
+Name       : Kushagra Yadav
+Role       : Computer Science Engineering Student | Aspiring SDE
+Location   : Rae Bareli, Uttar Pradesh, India 🇮🇳
+University : Lovely Professional University (LPU)
+Degree     : B.Tech — Computer Science & Engineering
+Batch      : 2024 – Present
+Semester   : 5th Semester
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra26102006&layout=compact&hide_border=true&title_color=F75C7E&text_color=c9d1d9&bg_color=0d1117" />
+Primary Focus:
+  💻 C++ / Data Structures & Algorithms
+  🐍 Python
+  🌐 JavaScript / Web Development
+  🗄️ SQL / Database Management
+  🤖 Generative AI
 
-</div>
+Career Goal:
+  → Become a strong Software Development Engineer
+  → Build real-world software applications
+  → Strengthen DSA and problem-solving
+  → Explore AI-driven technologies
+  → Prepare for SDE internship opportunities
+</div> <br/> <div align="center">
 
+💡 Learn → Practice → Build → Improve → Repeat
+
+</div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- PROFESSIONAL EXPERIENCE --> <!-- ═══════════════════════════════════════════════════════════════ -->
+💼 Experience
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra26102006&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=FF6F61&currStreakLabel=F75C7E" />
-
+╔══════════════════════════════════════════════════════════════════════════╗
+║   🌐  CSR PROJECT INTERN · WNS CARES FOUNDATION                         ║
+║   📅  July – August 2025                                                ║
+║   🎯  Project: CyberSmart Awareness                                     ║
+╚══════════════════════════════════════════════════════════════════════════╝
 </div>
+🔐 CyberSmart Awareness
+🌐 Worked on cyber awareness and digital safety
+🎤 Developed presentation and tutoring skills
+🤝 Participated in community outreach and social service
+🧑‍💻 Gained experience in networking and relationship management
+📚 Worked on spreading awareness around responsible digital practices
 
----
+This internship provided meaningful real-world exposure while combining technology, communication, awareness, and community impact.
 
-## 📈 Contribution Graph
-
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- FULL TECH STACK --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🛠️ Full Tech Arsenal
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra26102006&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area_color=F75C7E&area=true&hide_border=true" width="95%"/>
-</div>
+💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,js,c,java&theme=dark" />
 
----
+<br/><br/>
 
-## 🏆 GitHub Trophies
+🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" />
 
+<br/><br/>
+
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+<br/><br/>
+
+🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,replit&theme=dark" />
+
+<br/><br/>
+
+🤖 AI / Generative AI
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Applications-6C63FF?style=for-the-badge" /> </div> <br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- CORE SKILLS --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🧠 Core Technical Skills
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kushagra26102006&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
+🚀 Area	🛠️ Skills
+💻 Programming	C++, Python, JavaScript, C
+📊 DSA	Data Structures, Algorithms, Problem Solving
+🌐 Frontend	HTML5, CSS3, JavaScript, React
+⚙️ Backend	Node.js, Express
+🗄️ Database	SQL, MongoDB, DBMS
+🤖 AI	Generative AI, AI Applications
+🔧 Development	Git, GitHub, VS Code, Postman
+🧩 Concepts	OOP, Programming Fundamentals
+</div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- DSA SECTION --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🧩 DSA & Problem Solving
+<div align="center"> <a href="https://leetcode.com/u/Kushagra892/"> <img src="https://leetcard.jacoblin.cool/Kushagra892?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" alt="LeetCode Stats" /> </a>
 
----
+<br/><br/>
 
-## 🌐 Connect With Me
-
+<img src="https://img.shields.io/badge/🔥_DSA-Active_Learning-FF6347?style=for-the-badge" /> <img src="https://img.shields.io/badge/💻_Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> <img src="https://img.shields.io/badge/⚡_Focus-Problem_Solving-6C63FF?style=for-the-badge" /> </div> <br/>
+🎯 DSA Focus
+Arrays & Strings
+Recursion
+Sorting & Searching
+Hashing
+Linked Lists
+Stacks & Queues
+Trees & Graphs
+Sliding Window
+Two Pointers
+Greedy Algorithms
+Dynamic Programming
+Time & Space Complexity
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- CERTIFICATIONS --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🏆 Certifications & Achievements
 <div align="center">
+🥇 Learning & Professional Certifications
+<table width="95%"> <tr> <td align="center" width="50%">
+💻 Infosys Springboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kushagra-yadav-27100832a/)
+Programming Using C++
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Kushagra26102006)
+<img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sy7666492@gmail.com)
+<br/><br/>
 
-</div>
+Strengthened:
 
----
+OOP • Memory Management • File Handling • Problem Solving
 
-## ✍️ Developer Quote
+</td> <td align="center" width="50%">
+🌐 IBM — Coursera
 
+JavaScript Programming with React, Node & MongoDB
+
+<img src="https://img.shields.io/badge/IBM-MERN_Specialization-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+
+<br/><br/>
+
+React • Node.js • Express • MongoDB
+
+</td> </tr> <tr> <td align="center" width="50%">
+🤖 Generative AI
+
+Generative AI for All
+
+<img src="https://img.shields.io/badge/Generative_AI-Physics_Wallah_%C3%97_Microsoft-412991?style=for-the-badge" />
+
+<br/><br/>
+
+GenAI Fundamentals • AI Applications • Responsible AI
+
+</td> <td align="center" width="50%">
+☁️ Google Cloud
+
+Introduction to Generative AI
+
+<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<br/><br/>
+
+Generative AI • AI Concepts • AI Use Cases
+
+</td> </tr> <tr> <td align="center" width="50%">
+🌐 University of Michigan
+
+Web Design for Everybody
+
+<img src="https://img.shields.io/badge/University_of_Michigan-Web_Design-00274C?style=for-the-badge" />
+
+<br/><br/>
+
+HTML5 • CSS3 • JavaScript • Responsive Design
+
+</td> <td align="center" width="50%">
+🗄️ Infosys Springboard
+
+Database Management System
+
+<img src="https://img.shields.io/badge/Infosys-DBMS-007CC3?style=for-the-badge" />
+
+<br/><br/>
+
+Part 1 & Part 2
+
+</td> </tr> </table> </div> <br/>
+🏅 Special Achievements
+<div align="center"> <img src="https://img.shields.io/badge/🏆_Certificate_of_Merit-A_Grade-FFD700?style=for-the-badge&labelColor=0d1117" />
+
+ 
+
+<img src="https://img.shields.io/badge/📊_Data_Structures_%26_Algorithms-Completed-6C63FF?style=for-the-badge&labelColor=0d1117" />
+
+ 
+
+<img src="https://img.shields.io/badge/⚡_Object_Oriented_Programming-Completed-00D9FF?style=for-the-badge&labelColor=0d1117" /> </div> <br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- SKILL MATRIX --> <!-- ═══════════════════════════════════════════════════════════════ -->
+📈 Skill Proficiency Matrix
+<div align="center"> <table width="90%"> <tr> <td width="50%">
+
+⚙️ C++ / DSA
+
+████████████████████░░░░
+
+82%
+
+</td> <td width="50%">
+
+🐍 Python
+
+██████████████████░░░░░░
+
+75%
+
+</td> </tr> <tr> <td width="50%">
+
+🌐 JavaScript
+
+██████████████████░░░░░░
+
+75%
+
+</td> <td width="50%">
+
+🌎 Web Development
+
+██████████████████░░░░░░
+
+75%
+
+</td> </tr> <tr> <td width="50%">
+
+🗄️ SQL / DBMS
+
+████████████████░░░░░░░░
+
+68%
+
+</td> <td width="50%">
+
+🤖 Generative AI
+
+███████████████░░░░░░░░░
+
+62%
+
+</td> </tr> <tr> <td width="50%">
+
+⚛️ React / Frontend
+
+███████████████░░░░░░░░░
+
+62%
+
+</td> <td width="50%">
+
+⚙️ Node.js / Backend
+
+██████████████░░░░░░░░░░
+
+58%
+
+</td> </tr> </table> </div> <br/>
+
+Note: The percentages are presentation-style indicators, not formal assessment scores.
+
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- GITHUB ANALYTICS --> <!-- ═══════════════════════════════════════════════════════════════ -->
+📊 GitHub Analytics & Activity
+<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra26102006&theme=tokyonight" alt="Profile Details" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra26102006&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=00D9FF&fire=FF6347&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra26102006&theme=tokyonight" alt="Repos Per Language" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kushagra26102006&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra26102006&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6347&area_color=00D9FF&area=true&hide_border=true&custom_title=Kushagra's%20Contribution%20Graph" alt="Activity Graph" /> </div> <br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- EDUCATION --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🎓 Education
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+╔══════════════════════════════════════════════════════════════════════════╗
+║                   LOVELY PROFESSIONAL UNIVERSITY                        ║
+║                                                                          ║
+║              B.Tech — Computer Science & Engineering                    ║
+║                       2024 – Present                                    ║
+║                         Semester 5                                      ║
+║                                                                          ║
+║                  Punjab, India 🇮🇳                                      ║
+╚══════════════════════════════════════════════════════════════════════════╝
 </div>
-
----
-
-## 👀 Profile Views
-
+📚 Academic Focus
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management Systems
+Web Development
+Programming Fundamentals
+Software Development
+Artificial Intelligence & Generative AI
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- CURRENT ROADMAP --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🔭 Current Focus & Roadmap
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kushagra26102006&label=Profile%20Views&color=F75C7E&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Kushagra26102006?label=Followers&style=for-the-badge&color=F75C7E&labelColor=0D1117" />
-
-</div>
-
----
-
+🎯 Goal	📌 Status
+🧩 DSA & Problem Solving	🟢 Active
+💻 C++ Programming	🟢 Active
+🌐 Full-Stack Web Development	🟢 Active
+🤖 Generative AI	🟢 Exploring
+🗄️ DBMS & SQL	🟢 Strengthening
+⚙️ Software Engineering Fundamentals	🟢 Active
+🚀 Real-World Projects	🟡 Building
+💼 SDE Internship Preparation	🟢 Active
+🧠 Advanced Algorithms	🟡 Learning
+🏗️ System Design Fundamentals	🟡 Exploring
+</div> <br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- DEV PHILOSOPHY --> <!-- ═══════════════════════════════════════════════════════════════ -->
+💭 Developer Philosophy
 <div align="center">
+"Consistency beats intensity."
 
-### 💻 Code. Learn. Build. Repeat. 🚀
+Learn something new.
+Practice what you learn.
+Build something meaningful.
+Solve difficult problems.
+Repeat every day.
+</div> <br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- CONNECT SECTION --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🤝 Let's Connect & Collaborate!
+<div align="center"> <a href="https://www.linkedin.com/in/kushagra-yadav-27100832a/"> <img src="https://img.shields.io/badge/LinkedIn-Kushagra_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+ 
 
-**Thanks for visiting my profile! 😊**
+<a href="https://github.com/Kushagra26102006"> <img src="https://img.shields.io/badge/GitHub-Kushagra26102006-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-</div>
+ 
 
-<!-- Footer -->
+<a href="https://leetcode.com/u/Kushagra892/"> <img src="https://img.shields.io/badge/LeetCode-Kushagra892-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+ 
+
+<a href="mailto:sy7666492@gmail.com"> <img src="https://img.shields.io/badge/Gmail-sy7666492%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Location-Rae_Bareli%2C_UP%2C_India_🇮🇳-00D9FF?style=for-the-badge&labelColor=0d1117" />
+
+ 
+
+<img src="https://img.shields.io/badge/📞_Phone-%2B91--8081823448-brightgreen?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💼_Open_to-SDE_Internships_%7C_Projects_%7C_Collaborations-FF9900?style=for-the-badge&labelColor=0d1117" /> </div> <br/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- CONTRIBUTION SNAKE --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-snake.svg" /> <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Kushagra26102006/Kushagra26102006/output/github-snake-dark.svg" /> </picture> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- FOOTER --> <!-- ═══════════════════════════════════════════════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer" width="100%" /> <div align="center"> <sub>
+
+💻 Software Developer in Progress  • 
+🔥 DSA Grinder  • 
+🌐 Web Developer  • 
+🤖 GenAI Explorer
+
+<br/>
+
+⭐ Star my repositories if you find them useful!
+
+<br/>
+
+Built with ❤️ + ☕ by <a href="https://github.com/Kushagra26102006"><b>Kushagra Yadav</b></a>
+
+<br/>
+
+Rae Bareli, Uttar Pradesh, India 🇮🇳
+
+</sub> </div> ```
