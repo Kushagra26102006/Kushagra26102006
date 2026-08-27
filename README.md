@@ -184,25 +184,11 @@ Currently:
 
 <div align="center">
 
-<img 
-  width="49%" 
-  src="https://github-readme-stats.vercel.app/api?username=Kushagra26102006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" 
-  alt="Kushagra's GitHub Stats" 
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagra26102006&show_icons=true&theme=tokyonight)
 
-<img 
-  width="49%" 
-  src="https://streak-stats.demolab.com/?user=Kushagra26102006&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117" 
-  alt="Kushagra's GitHub Streak" 
-/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kushagra26102006&theme=tokyonight)
 
-<br/><br/>
-
-<img 
-  width="60%" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra26102006&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6347&area=true&hide_border=true" 
-  alt="Kushagra's GitHub Activity Graph" 
-/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kushagra26102006&theme=tokyo-night)
 
 </div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
