@@ -92,7 +92,7 @@
 
 <div align="center">
 
-```yaml
+yaml
 Name       : Kushagra Yadav
 Role       : Computer Science Engineering Student | Aspiring SDE
 Location   : Rae Bareli, Uttar Pradesh, India 🇮🇳
@@ -453,4 +453,4 @@ Built with ❤️ + ☕ by <a href="https://github.com/Kushagra26102006"><b>Kush
 
 Rae Bareli, Uttar Pradesh, India 🇮🇳
 
-</sub> </div> ```
+</sub> </div> 
